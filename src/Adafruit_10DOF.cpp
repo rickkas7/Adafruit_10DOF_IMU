@@ -18,7 +18,7 @@
 #include <limits.h>
 #include <math.h>
 
-#include "Adafruit_10DOF_IMU/Adafruit_10DOF.h"
+#include "Adafruit_10DOF.h"
 
 #define PI  (3.14159265F);
 

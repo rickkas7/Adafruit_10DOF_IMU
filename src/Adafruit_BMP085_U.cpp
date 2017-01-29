@@ -20,7 +20,7 @@
 #include <math.h>
 #include <limits.h>
 
-#include "Adafruit_10DOF_IMU/Adafruit_BMP085_U.h"
+#include "Adafruit_BMP085_U.h"
 
 // This is an ugly hack because that's the test used to use Write.write instead of Wire.send everywhere
 #define ARDUINO 100

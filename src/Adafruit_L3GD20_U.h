@@ -19,7 +19,7 @@
 
 #include "Particle.h"
 
-#include "Adafruit_10DOF_IMU/Adafruit_Sensor.h"
+#include "Adafruit_Sensor.h"
 
 /*=========================================================================
     I2C ADDRESS/BITS AND SETTINGS
